@@ -1,5 +1,5 @@
 # simpleRESTAPI-vert.x
- 							APPLICATION SET UP
+ 							**APPLICATION SET UP**
 1. Can be run directly by going to simpleREST.zip\org.vishikbhalla\target and running the .fat-jar
 2. If you want to compile and see the code follow steps below
 3. Make sure Java 1.8 or higher is installed and Apache Maven is installed
